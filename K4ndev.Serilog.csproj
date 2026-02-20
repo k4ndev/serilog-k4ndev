@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <PackageId>K4ndev.Serilog</PackageId>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
     <Authors>Kamran Mirzayev (k4ndev)</Authors>
     <Company>k4ndev</Company>
     <Description>Ready-to-use Serilog setup for ASP.NET Core (.NET 10) with ClientIp, UserId, TraceId/Span, Thread enrichers + custom middleware.</Description>
